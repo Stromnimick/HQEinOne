@@ -2,6 +2,7 @@
 All in One solution for QS needs
 
 Die App soll die Prozesse der Studienreform und Akkredierung von Studiengängen bündeln.
+
 Studienreform: 
   (a) neue Verfahren anlegen und bearbeiten
   (b) aktuelle und alte Verfahren ansehen
