@@ -15,15 +15,15 @@ Die App soll die Prozesse der Studienreform und Akkredierung von Studiengängen 
   - (vi) Dokumentatiosn von Ausnahmeregelungen,
 
 # Akkreditierung:
-  (a) neue Verfahren anlegen und bearbeiten
-  (b) aktuelle und alte Verfahren ansehen
-  (c) erstellen der in der Akkreditierung notwendigen Dokumente:
-    (i) Vorlage Selbstbericht,
-    (ii) Datenset,
+ - (a) neue Verfahren anlegen und bearbeiten
+ - (b) aktuelle und alte Verfahren ansehen
+ - (c) erstellen der in der Akkreditierung notwendigen Dokumente:
+   - (i) Vorlage Selbstbericht,
+   - (ii) Datenset,
 
 # Studiengangsübersicht
-  (a) Stanndaten des Studiengangs
-  (b) Verfahren der Studienreform
-  (c) Verfahren der Akkreditierung
-  (d) Daten aus dem Monitoring
-  (e) Daten aus Befragungen
+ - (a) Stanndaten des Studiengangs
+ - (b) Verfahren der Studienreform
+ - (c) Verfahren der Akkreditierung
+ - (d) Daten aus dem Monitoring
+ - (e) Daten aus Befragungen
