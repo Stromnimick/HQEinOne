@@ -27,3 +27,7 @@ Die App soll die Prozesse der Studienreform und Akkredierung von Studiengängen 
  - (c) Verfahren der Akkreditierung
  - (d) Daten aus dem Monitoring
  - (e) Daten aus Befragungen
+
+# technische Basis
+- Code: Python
+- Datenbank: PostgreSQL
